@@ -87,6 +87,9 @@ Raw Applicant Data
 | P4 – High Risk | 0.77 | 0.74 | 0.76 |
 
 ---
+## App Screenshots
+<img width="1920" height="1080" alt="Screenshot (845)" src="https://github.com/user-attachments/assets/5a10919f-a758-486e-9d55-c79e8a8cab40" />
+
  
 ## Tech Stack
  
